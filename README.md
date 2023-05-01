@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working at UnoA Television<br>I am learning deep backend with pure php<br>I am studying Physical Engineering
+🎥 I am currently working at UnoA Television<br>🔭 I am learning deep backend with pure php<br>🧐 I am studying Physical Engineering
 
 
 ## 🌐 Socials:
