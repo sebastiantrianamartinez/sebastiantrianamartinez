@@ -25,7 +25,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=sebastiantrianamartinez&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://static.boredpanda.es/blog/wp-content/uploads/2021/02/funny-programmer-coding-jokes-coverimage.jpg/" width="512px"/>
+<img src="[https://static.boredpanda.es/blog/wp-content/uploads/2021/02/funny-programmer-coding-jokes-coverimage.jpg/](https://media.licdn.com/dms/image/C4E22AQGq-xkdaRwpdg/feedshare-shrink_2048_1536/0/1628874395287?e=2147483647&v=beta&t=LQTqNoNxyVTEXPsW7AKf2ojuEbr-CGTc4cZuMiMv9JE)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sebastiantrianamartinez&icon=0&color=0)](https://visitcount.itsvg.in)
