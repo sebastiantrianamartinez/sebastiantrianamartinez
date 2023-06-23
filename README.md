@@ -24,7 +24,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=sebastiantrianamartinez&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Dev Meme
-![meme](https://pbs.twimg.com/media/FBk1cgFWUAQj3oj.png)
+![meme](https://i.pinimg.com/736x/d9/1b/ca/d91bca90801304269c6091071cd051e6--software-development-application-development.jpg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sebastiantrianamartinez&icon=0&color=0)](https://visitcount.itsvg.in)
