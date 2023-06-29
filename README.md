@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎥 I am currently working at UnoA Television as Software Developer and Team Leader<br>🔭 I am learning deep backend with pure php<br>🧐 I am studying Physical Engineering<br>👯 I’m looking to collaborate on sample web projects <br>🌱 I’m currently learning Software Architecture and Server Managment<br>💬 Ask me about php<br>⚡ I don't like using frameworks
+🎥 I am currently working at UnoA Television as Software Developer and Team Leader<br>🔭 I am learning deep backend with pure php<br>🧐 I am studying Physical Engineering<br>👯 I’m looking to collaborate on sample web projects <br>🌱 I’m currently learning Software Architecture and Server Management<br>💬 Ask me about php<br>⚡ I don't like using frameworks
 
 
 ## 🌐 Socials:
